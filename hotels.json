@@ -1,0 +1,32 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "The Petalborough Grand Hotel"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Rosewood Inn & Suites"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Rustburg Manor Hotel"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Ironvale Lodge"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Shaleport Harbor Hotel"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Tidewater Boutique Inn"
+  }
+]

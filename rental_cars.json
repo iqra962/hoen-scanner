@@ -1,0 +1,32 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "car",
+    "title": "Compact Hatchback - EconoDrive Rentals"
+  },
+  {
+    "city": "petalborough",
+    "kind": "car",
+    "title": "Midsize Sedan - Petalborough Auto Hire"
+  },
+  {
+    "city": "rustburg",
+    "kind": "car",
+    "title": "SUV 4x4 - Rustburg Rentals Co."
+  },
+  {
+    "city": "rustburg",
+    "kind": "car",
+    "title": "Convertible - Sunrise Car Hire"
+  },
+  {
+    "city": "shaleport",
+    "kind": "car",
+    "title": "Electric Compact - Shaleport EV Rentals"
+  },
+  {
+    "city": "shaleport",
+    "kind": "car",
+    "title": "Pickup Truck - Harbor Auto Rentals"
+  }
+]
